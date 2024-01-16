@@ -1,5 +1,5 @@
 # MCN Model
-MCN model used to detect malware by using GNN model, details can be found in the paper: DISCOVERING MALICIOUS SIGNATURES IN SOFTWARE FROM STRUCTURAL INTERACTIONS
+MCN model used to detect malware by using GNN model, details can be found in the paper: "DISCOVERING MALICIOUS SIGNATURES IN SOFTWARE FROM STRUCTURAL INTERACTIONS". 
 This GitHub repository encompasses two integral components:
 1. LLVM tool: mgn_llvm.pl
 2. MGN model: mgn_model.ipynb
