@@ -12,6 +12,9 @@ This GitHub repository encompasses two integral components:
 5. Choose two C files you like and feel free to modify the number of iterations, but please do not make it too large because you have to wait hours or even days for it to finish. Lets say you choose “triad.c”, you can type “perl mgn_llvm.pl triad.c” to profile “triad.c” this C program. It should look like this if it is successful.
 6. If step 6 is complete, you will get several extra files. The most important files to you are “triad.c-assortativity.py” where assortativity is calculated using NetworkX; “triad.c-dependency.wpairs” representing application dependency graph; “triad.c-gexf” where it is used by Gephi to vitualize the graph and perform community detection.
 
+## Malware Dataset
+Please download the dataset from the following google drive link: https://drive.google.com/file/d/1E30hdHes1Jxt1YlvNUlQzIifP9jfpBFP/view?usp=drive_link
+
 ## Ackonowledge
 I would like to express my sincere gratitude to Yao for creating the tool that I have used. The tool has been incredibly helpful, and I appreciate the effort put into its development.
 Tool Source: https://github.com/xiaoyao0512/CompNetOpt
